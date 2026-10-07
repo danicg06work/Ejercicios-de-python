@@ -1,0 +1,65 @@
+
+1. Escribe un programa que imprima “Hola, Mundo” en la consola.
+2. Escribe un programa que realice la suma de dos números cualesquiera e imprima el resultado.
+3. Crea un programa que calcule la diferencia entre dos números e imprima el resultado.
+4. Escribe un programa que imprima el producto de dos números.
+5. Escribe un programa que divida dos números e imprima el cociente.
+6. Crea un programa que imprima un número flotante con 2 decimales.
+7. Escribe un programa que imprima el resultado de 2 elevado a la 5ta potencia.
+8. Crea un programa que imprima el resto de dividir 17 entre 3.
+9. Escribe un programa que imprima el resultado de 5 más 3 multiplicado por 2.
+10. Escribe un programa que imprima una línea vacía seguida del texto “Fin del programa”.
+11. Declara tres variables con un entero, un flotante y una cadena. Imprime sus tipos.
+12. Crea un programa que convierta un número flotante a entero y lo imprima.
+13. Escribe un programa que verifique si dos variables son iguales utilizando el operador ==.
+14. Escribe un programa que verifique si una variable es mayor que otra utilizando el operador >.
+15. Escribe un programa que utilice el operador not para invertir el valor booleano de una condi‑
+ción.
+16. Crea un programa que utilice el operador or para verificar si una variable es mayor que 10 o
+menor que 5.
+17. Declara una variable cadena y usa el operador de suma (+) para concatenar otra cadena a ella.
+18. Escribe un programa que calcule el promedio de tres números dados.
+19. Crea un programa que verifique si un número es par o impar usando el operador %.
+20. Escribe un programa que calcule el área de un triángulo (base * altura / 2) con base y altura
+dadas por el usuario.
+21. Escribe un programa que verifique si un número es positivo, negativo o cero, e imprima el men‑
+saje correspondiente.
+22. Crea un programa que verifique si una persona es mayor de edad o menor de edad, consideran‑
+do 18 años como mayoría de edad.
+23. Escribe un programa que pida un número al usuario y diga si es divisible por 3 y 5.
+24. Crea un programa que pida dos números al usuario e imprima el mayor de los dos.
+25. Escribe un programa que determine si un número es divisible entre 2, entre 3 o entre ambos.
+26. Escribe un programa que imprima los números del 1 al 10 usando un bucle while.
+27. Crea un programa que imprima los números del 10 al 1 en orden inverso utilizando un bucle
+while.
+28. Escribe un programa que imprima los primeros 10 números pares usando un bucle for.
+29. Crea un programa que imprima cada carácter de la cadena “Python” usando un bucle for.
+30. Escribe un programa que pida al usuario un número y luego imprima todos los números del 1
+hasta ese número.
+31. Crea una cadena con la frase “Aprender Python es divertido” e imprime su longitud.
+32. Escribe un programa que convierta la cadena “PYTHON” a minúsculas.
+33. Escribe un programa que convierta la cadena “python” a mayúsculas.
+34. Crea un programa que reemplace la palabra “divertido” por “fácil” en la cadena “Aprender
+Python es divertido”.
+35. Escribe un programa que tome la cadena “Me encanta Python” y extraiga la palabra “Python”
+usando slicing.
+36. Crea un programa que divida la frase “Python es fácil de aprender” en una lista de palabras.
+37. Escribe un programa que convierta una lista de palabras [“Hola”, “Mundo”] en una cadena unida
+por espacios.
+38. Crea un programa que verifique si la palabra “Python” está contenida en la frase “Me encanta
+programar en Python”.
+39. Escribe un programa que tome la cadena “abracadabra” y cuente cuántas veces aparece la letra
+“a”.
+40. Crea un programa que convierta la cadena ” Espacio en blanco ” en una cadena sin espacios al
+principio ni al final.
+41. Crea una lista que contenga los números 1, 2, 3, 4, 5 e imprímela.
+42. Crea una lista vacía y luego añade los números 1, 2 y 3 a la lista usando el método append().
+43. Escribe un programa que imprima el segundo elemento de una lista.
+44. Crea una lista y reemplaza el tercer elemento con el valor “Nuevo valor”.
+45. Escribe un programa que elimine el último elemento de una lista usando el método pop().
+46. Crea una tupla que contenga los números 1, 2 y 3, e imprime el primer elemento.
+47. Escribe un programa que cuente cuántas veces aparece el número 5 en la tupla (1, 5, 2, 5, 3, 5).
+48. Crea un conjunto que contenga los números 1, 2, 3, y luego añade el número 4 al conjunto.
+49. Escribe un programa que encuentre la intersección de dos conjuntos {1, 2, 3} y {2, 3, 4}.
+50. Crea un diccionario con las claves “nombre”, “edad” y “ciudad”, luego imprime el valor de la
+clave “edad”.
